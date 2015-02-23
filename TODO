@@ -1,0 +1,4 @@
+- fix the file names limitation (no space no paren)
+- add more tests
+- have a look if compiling with  -file-line-error 
+
